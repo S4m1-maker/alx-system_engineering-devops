@@ -1,0 +1,47 @@
+total 84K
+drwxr-xr-x 6 user user   4.0K Dec 15 01:07 .
+drwxr-xr-x 5 user user   4.0K Dec 12 08:35 ..
+-rwxr-xr-x 1 user user     21 Dec 12 08:38 0-iam_betty
+-rwxr-xr-x 1 user user     19 Dec 12 08:43 1-who_am_i
+-rwxr-xr-x 1 user user     42 Dec 14 23:37 10-mirror_permissions
+-rwxr-xr-x 1 user user     26 Dec 14 23:48 11-directories_permissions
+-rwxr--r-- 1 user user     36 Dec 14 23:54 12-directory_permissions
+-rwxr--r-- 1 user user     36 Dec 15 00:09 13-change_group
+-rwxr-xr-x 1 user user     19 Dec 12 08:47 2-groups
+-rwxr-xr-x 1 user user     35 Dec 12 08:54 3-new_owner
+-rwxr-xr-x 1 user user     24 Dec 12 08:58 4-empty
+-rwxr-xr-x 1 user user     28 Dec 12 09:10 5-execute
+-rwxr-xr-x 1 user user     28 Dec 12 09:35 6-multiple_permissions
+-rwxr-xr-x 1 user user     27 Dec 12 11:01 7-everybody
+-rwxr-xr-x 1 user user     28 Dec 12 11:12 8-James_Bond
+-rwxr-xr-x 1 user user     28 Dec 14 23:38 9-John_Doe
+-rwxr-xr-x 1 user user     23 Dec 12 08:36 README.md
+drwxr-xr-x 5 user user   4.0K Dec 13 01:46 dir01
+drwxr-xr-x 2 user user   4.0K Dec 12 15:14 dir02
+drwxr-xr-x 2 user user   4.0K Dec 12 15:14 dir03
+-rw-r--r-- 1 user user      0 Dec 15 01:07 file-text.txt
+-rwxr-xr-x 1 user school    0 Dec 12 08:52 hello
+drwxr-x--x 2 user user   4.0K Dec 14 23:55 my_dir
+-rwxr-xr-x 1 user user      0 Dec 12 11:29 olleh
+0-iam_betty
+1-who_am_i
+10-mirror_permissions
+11-directories_permissions
+12-directory_permissions
+13-change_group
+2-groups
+3-new_owner
+4-empty
+5-execute
+6-multiple_permissions
+7-everybody
+8-James_Bond
+9-John_Doe
+README.md
+dir01
+dir02
+dir03
+file-text.txt
+hello
+my_dir
+olleh
